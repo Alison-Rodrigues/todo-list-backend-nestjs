@@ -1,4 +1,4 @@
 import { Controller } from '@nestjs/common';
 
-@Controller('todo')
+@Controller('api/v1/todo')
 export class TodoController {}
